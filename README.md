@@ -75,12 +75,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 <a href="https://benjamin-russo.github.io" target="_blank">
-<img src=https://img.shields.io/badge/github%20page-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/portfolio-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 </div>
-
-<br/>
-
-## Github Stats
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benjamin-russo&hide_border=true&layout=compact" align="center" /></div>
